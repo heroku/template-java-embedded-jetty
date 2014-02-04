@@ -8,8 +8,7 @@
   <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <link href="http://twitter.github.com/bootstrap/assets/css/bootstrap.css" rel="stylesheet">
-  <link href="http://twitter.github.com/bootstrap/assets/css/bootstrap-responsive.css" rel="stylesheet">
+  <link href="//netdna.bootstrapcdn.com/bootstrap/2.3.2/css/bootstrap.min.css" rel="stylesheet">
 
   <!--
   IMPORTANT:
@@ -426,8 +425,7 @@
 </div>
 </div>
 
-<script src="http://twitter.github.com/bootstrap/assets/js/jquery.js"></script>
-<script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-tab.js"></script>
-<script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-modal.js"></script>
+<script src="//code.jquery.com/jquery-1.9.1.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/2.3.2/js/bootstrap.min.js"></script>
 </body>
 </html>
